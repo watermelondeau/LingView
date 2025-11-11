@@ -5,6 +5,7 @@ module.exports = {
   entry: './jsx/AppContainer.jsx',
   output: {
     filename: 'bundle.js',
+	hashFunction: "sha256",
     path: path.resolve(__dirname, 'build'),
     publicPath: './build/'
   },
