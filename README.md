@@ -1,4 +1,4 @@
-# LingView 
+# LingView
 
 This is an extension of the LingView project developed at Brown University ([Pride, Tomlin and AnderBois 2020](http://hdl.handle.net/10125/24916)), as a way to display Kanien'kéha language documentation in a more user-friendly interface.
 
